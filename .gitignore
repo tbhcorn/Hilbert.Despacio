@@ -1,0 +1,7 @@
+*.wav
+*.flac
+*.mp3
+HILBERT_OUT/
+dist/
+build/
+*.spec
